@@ -64,10 +64,10 @@ TicTacToe_Project/
 
 ## Tangkapan Layar
 
-| !<img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 53 57" src="https://github.com/user-attachments/assets/7ff010c6-326a-4eec-be69-03a1c3f4be35" />
+<img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 53 57" src="https://github.com/user-attachments/assets/7ff010c6-326a-4eec-be69-03a1c3f4be35" />
 <img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 53 58" src="https://github.com/user-attachments/assets/71ae7a46-64ca-47c0-b7e8-711c750b9852" />
 <img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 53 59" src="https://github.com/user-attachments/assets/385a4dca-e7b8-405a-a78e-9ddb1511179d" />
-<img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 54 00" src="https://github.com/user-attachments/assets/f65d41b0-1256-4940-bb34-a61110f8b7d2" /> |
+<img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 54 00" src="https://github.com/user-attachments/assets/f65d41b0-1256-4940-bb34-a61110f8b7d2" /> 
 
 ## Pembuat
 
