@@ -1,56 +1,76 @@
-# Welcome to your Expo app 👋
+# TicTacToe Project
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Permainan **Tic-Tac-Toe** (XO) untuk dua pemain, dibuat sebagai tugas mata kuliah. Pemain bergantian menandai kotak pada papan 3×3, dan pemenangnya adalah yang pertama membentuk tiga tanda berurutan secara horizontal, vertikal, atau diagonal.
 
-## Get started
+## Identitas
 
-1. Install dependencies
+| | |
+|---|---|
+| **Nama** | Mochammad Gibran K.R |
+| **NPM** | 41155050240024 |
+| **Program Studi** | Teknik Informatika |
+| **Universitas** | Universitas Langlangbuana (UNLA) |
+| **Mata Kuliah** | Pemograman Mobile |
+
+
+## Deskripsi
+
+Proyek ini mengimplementasikan permainan Tic-Tac-Toe lengkap dengan logika giliran pemain, pengecekan kemenangan, dan deteksi hasil seri (draw).
+
+## Fitur
+
+- Papan permainan 3×3
+- Dua pemain bergiliran (X dan O)
+- Pengecekan otomatis pemenang (baris, kolom, diagonal)
+- Deteksi hasil seri jika papan penuh
+- Tombol untuk mengulang permainan
+
+## Teknologi
+
+- Bahasa pemrograman: TypeScript
+- Version control: Git & GitHub
+
+## Aturan Permainan
+
+1. Pemain pertama memakai tanda **X**, pemain kedua memakai tanda **O**.
+2. Pemain bergiliran menandai satu kotak kosong.
+3. Pemain yang pertama membuat tiga tanda sejajar (horizontal, vertikal, atau diagonal) menang.
+4. Jika semua kotak terisi tanpa pemenang, hasilnya **seri**.
+
+## Cara Menjalankan
+
+1. Clone repositori:
+
+   ```bash
+   git clone https://github.com/GibranDev08/TicTacToe_Project.git
+   cd TicTacToe_Project
+   ```
+
+2. Jalankan program:
 
    ```bash
    npm install
-   ```
-
-2. Start the app
-
-   ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Struktur Repositori
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```
+TicTacToe_Project/
+├── README.md
+├── [file-utama]        # Kode program utama
+└── [folder/aset]       # Aset atau file pendukung (jika ada)
 ```
 
-This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
+## Tangkapan Layar
 
-### Other setup steps
+|! <img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 53 57" src="https://github.com/user-attachments/assets/7ff010c6-326a-4eec-be69-03a1c3f4be35" />
+<img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 53 58" src="https://github.com/user-attachments/assets/71ae7a46-64ca-47c0-b7e8-711c750b9852" />
+<img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 53 59" src="https://github.com/user-attachments/assets/385a4dca-e7b8-405a-a78e-9ddb1511179d" />
+<img width="767" height="1600" alt="WhatsApp Image 2026-11-16 at 09 54 00" src="https://github.com/user-attachments/assets/f65d41b0-1256-4940-bb34-a61110f8b7d2" />
+|
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+## Pembuat
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Mochammad Gibran K.R** – Teknik Informatika, Universitas Langlangbuana
+GitHub: [GibranDev08](https://github.com/GibranDev08)
